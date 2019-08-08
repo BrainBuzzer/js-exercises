@@ -1,0 +1,1 @@
+export const evenNumber = (numberArray) => numberArray.filter(n => (n%2 == 0))
